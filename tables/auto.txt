@@ -1,0 +1,14 @@
+	(1)	(2)
+VARIABLES	firstreg	firstreg
+		
+1.foreign	1,767**	1,767**
+	(700.2)	(700.2)
+mpg	-294.2***	-294.2***
+	(55.69)	(55.69)
+Constant	11,905***	11,905***
+	(1,159)	(1,159)
+		
+Observations	74	74
+R-squared	0.284	0.284
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
